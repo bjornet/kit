@@ -1,5 +1,19 @@
 # @sveltejs/kit
 
+## 1.0.0-next.552
+
+### Patch Changes
+
+- Don't hardcode version in client bundle ([#7694](https://github.com/sveltejs/kit/pull/7694))
+
+- Allow .d.ts files to have a + prefix ([#7682](https://github.com/sveltejs/kit/pull/7682))
+
+- Expose version from `$app/environment` ([#7689](https://github.com/sveltejs/kit/pull/7689))
+
+- [fix] export HttpError/Redirect interface ([#7701](https://github.com/sveltejs/kit/pull/7701))
+
+- [fix] don't preload fonts by default ([#7704](https://github.com/sveltejs/kit/pull/7704))
+
 ## 1.0.0-next.551
 
 ### Patch Changes
